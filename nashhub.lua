@@ -1,3 +1,4 @@
+loadstring("https://raw.githubusercontent.com/nandowutwut/nandowutwut/refs/heads/nandowutwut/nashhub.lua"))()
 local Window = Rayfield:CreateWindow({
     Name = "NANDO WUT WUT",
     LoadingTitle = "You Loaded NASHhub sc",
